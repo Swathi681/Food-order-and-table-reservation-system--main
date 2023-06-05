@@ -31,7 +31,7 @@ include_once('includes/dbconnection.php');
                     <div class="col-md-12 col-sm-12 col-lg-12">
                         <div class="page-title-inner">
                             <h1 itemprop="headline">About Us</h1>
-                            <span>Jose Great Restaurant ordering system</span>
+                            <span>Swathi Great Restaurant ordering system</span>
                         </div>
                     </div>
                 </div>
