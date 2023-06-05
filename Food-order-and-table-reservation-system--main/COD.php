@@ -12,7 +12,7 @@ unset($_SESSION["cart"]);
 <html>
 
   <head>
-    <title> Cart | Jose Cafe' </title>
+    <title> Cart | Swathi Cafe' </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/COD.css">
@@ -56,7 +56,7 @@ unset($_SESSION["cart"]);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Jose Cafe'</a>
+          <a class="navbar-brand" href="index.php">Swathi Cafe'</a>
         </div>
 
         <div class="collapse navbar-collapse " id="myNavbar">
