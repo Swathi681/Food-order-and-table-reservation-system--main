@@ -41,7 +41,7 @@ if($query)
                 <div class="fixed-bg" style="background-image: url(assets/images/parallax2.jpg);"></div>
                 <div class="restaurant-searching style2 text-center">
                     <div class="restaurant-searching-inner">
-						<span>Welcome to <i>Jose foods</i> </span>
+						<span>Welcome to <i>Swathi foods</i> </span>
                         <h2 itemprop="headline">Order and it will be delivered</h2>
                         <form class="restaurant-search-form2 brd-rd30" method="post" action="search-result.php">
            <input class="brd-rd30" type="text" placeholder="Dish Name" required="true"  name="searchdata">
